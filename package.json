@@ -1,7 +1,7 @@
 {
-  "name": "vueify",
+  "name": "@paulcbetts/vueify",
   "version": "9.4.0",
-  "description": "Vue component transform for Browserify",
+  "description": "Vue component transform, compiler only with no subcompilers",
   "main": "index.js",
   "repository": {
     "type": "git",
