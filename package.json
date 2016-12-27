@@ -1,6 +1,6 @@
 {
   "name": "@paulcbetts/vueify",
-  "version": "9.4.1",
+  "version": "9.4.2",
   "description": "Vue component transform, compiler only with no subcompilers",
   "main": "index.js",
   "repository": {
